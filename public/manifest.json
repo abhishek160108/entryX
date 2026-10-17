@@ -1,0 +1,19 @@
+{
+  "name": "EntryX Scanner",
+  "short_name": "EntryX",
+  "description": "Cinema Ticket Validation Platform — One Ticket. One Entry.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#080C14",
+  "theme_color": "#080C14",
+  "categories": ["utilities", "business", "entertainment"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
